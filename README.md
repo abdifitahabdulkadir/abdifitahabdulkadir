@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Seaph Abdulkadir</h1>
 <h3 align="center">A passionate for Mobile App Development</h3>
+https://github.com/seaphabdulkadir/seaphabdulkadir/blob/main/mybanner.png
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seaphabdulkadir&label=Profile%20views&color=0e75b6&style=flat" alt="seaphabdulkadir" /> </p>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/seaphabdulkadir/seaphabdulkadir/blob/main/mybanner.png
+)" alt=”my banner”>
+
+</p>
 
 <p align="left"> <a href="https://twitter.com/seaphabdulkdair" target="blank"><img src="https://img.shields.io/twitter/follow/seaphabdulkdair?logo=twitter&style=for-the-badge" alt="seaphabdulkdair" /></a> </p>
 

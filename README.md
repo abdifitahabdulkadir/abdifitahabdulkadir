@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Seaph Abdulkadir</h1>
 <h3 align="center">A passionate for Mobile App Development</h3>
-https://github.com/seaphabdulkadir/seaphabdulkadir/blob/main/mybanner.png
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/seaphabdulkadir/seaphabdulkadir/blob/main/mybanner.png
-)" alt=”my banner”>
+<img width=”200" height=”200" src="https://github.com/seaphabdulkadir/seaphabdulkadir/blob/main/mybanner.png"
+ alt=”my banner”>
 
 </p>
 

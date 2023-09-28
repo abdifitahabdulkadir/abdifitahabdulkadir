@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seaph Abdulkadir</h1>
-<h3 align="center">A passionate for Mobile App Development</h3>
+
 <p align=”center”>
 <img width=”200" height=”200" alt="mybanner" src="https://github.com/seaphabdulkadir/seaphabdulkadir/assets/82603475/6f5df77e-7876-4452-800d-f4aeedc133d8">
 </p>
-
+<h4 align="center">A passionate for Mobile App Development</h4>
 <p align="left"> <a href="https://twitter.com/seaphabdulkdair" target="blank"><img src="https://img.shields.io/twitter/follow/seaphabdulkdair?logo=twitter&style=for-the-badge" alt="seaphabdulkdair" /></a> </p>
 
 - 🔭 I’m currently working on **Financial Mobile App Payment**

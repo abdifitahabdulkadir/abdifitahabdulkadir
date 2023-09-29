@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seaphabdulkdair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seaphabdulkdair" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/seaphabdulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seaphabdulkadir" height="30" width="40" /></a>
-<a href="https://fb.com/seaphabdulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seaphabdulkadir" height="30" width="40" /></a>
+
 <a href="https://instagram.com/seaphabdulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seaphabdulkadir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/seaphabdulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seaphabdulkadir" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/seaphabdulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seaphabdulkadir" height="30" width="40" /></a>
 </p>
 

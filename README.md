@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdifitah Abdulkadir</h1>
 
 <p align=”center”>
-<img width=”200" height=”200" alt="mybanner" src="https://github.com/seaphabdulkadir/seaphabdulkadir/assets/82603475/6f5df77e-7876-4452-800d-f4aeedc133d8">
+![bannertwo](https://github.com/abdifitahabdulkadir/abdifitahabdulkadir/assets/82603475/1c15c7af-0d2c-4d7e-a309-7a74e5a3f0cf)
 </p>
 <h4 align="center">A passionate for Mobile App Development</h4>
 <p align="left"> <a href="https://twitter.com/seaphabdulkdair" target="blank"><img src="https://img.shields.io/twitter/follow/seaphabdulkdair?logo=twitter&style=for-the-badge" alt="seaphabdulkdair" /></a> </p>

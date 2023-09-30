@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seaph Abdulkadir</h1>
+<h1 align="center">Hi 👋, I'm Abdifitah Abdulkadir</h1>
 
 <p align=”center”>
 <img width=”200" height=”200" alt="mybanner" src="https://github.com/seaphabdulkadir/seaphabdulkadir/assets/82603475/6f5df77e-7876-4452-800d-f4aeedc133d8">

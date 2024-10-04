@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Working personal Projects.<br>👯 I’m looking to collaborate on any one.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Animation libraries like Framer motion and three js<br>💬 Ask me about React , Typescript, JavaScript and Next js <br>⚡ Fun fact : Beach and to have time with my family
+🔭 I’m currently Working personal Projects.<br>👯 I’m looking to collaborate on any one.<br>🌱 I’m currently learning Animation libraries like Framer motion and three js<br>💬 Ask me about React , Typescript, JavaScript and Next js <br>⚡ Fun fact : Beach and to have time with my family
 
 
 ## 🌐 Socials:

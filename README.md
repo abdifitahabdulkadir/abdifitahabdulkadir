@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/cat-1958376_1280.png" width="100%" alt="Cute Cat Banner"/>
+  <img src="https://github.com/abdifitahabdulkadir/abdifitahabdulkadir/blob/main/banner.svg" width="100%"  alt="Cute Cat Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdifitah Abdulkadir</h1>

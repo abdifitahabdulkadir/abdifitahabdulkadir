@@ -30,4 +30,3 @@
 
 ---
 
-_Always creating with ❤️. Let’s connect!_

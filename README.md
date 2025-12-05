@@ -2,16 +2,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [**deero-management**](https://github.com/abdifitahabdulkadir/deero-management) | Modern management system |
-| [**bettr-auth-starter**](https://github.com/abdifitahabdulkadir/bettr-auth-starter) | Authentication starter kit |
-| [**usermanagement**](https://github.com/abdifitahabdulkadir/usermanagement) | User management solutions |
-| [**gta_landingpage**](https://github.com/abdifitahabdulkadir/gta_landingpage) | Stylish landing page |
-
----
 
 ## 🛠️ Tech Stack
 
